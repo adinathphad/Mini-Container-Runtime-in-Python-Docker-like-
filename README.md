@@ -108,6 +108,6 @@ This project helps understand:
 
 - How Docker images work
 - How containers are created
-- Isolation concepts
+- Isolation concept
 - Runtime management
 - CLI tool design
